@@ -25,7 +25,7 @@ const AboutUs = () => {
             cultures and eras.
           </p>
           <img
-            src="https://via.placeholder.com/800x400?text=Ganesh+Museum+History"
+            src="idol3.webp"
             alt="Ganesh Museum History"
             className="w-full rounded-lg mb-4 shadow-md"
           />
@@ -60,7 +60,7 @@ const AboutUs = () => {
             </li>
           </ul>
           <img
-            src="https://via.placeholder.com/800x400?text=Ganesh+Chaturthi+Celebration"
+            src="idol1.webp"
             alt="Ganesh Chaturthi Celebration"
             className="w-full rounded-lg mb-4 shadow-md"
           />
@@ -79,12 +79,6 @@ const AboutUs = () => {
             Learn More
           </button>
         </section>
-
-        <footer className="text-center mt-12">
-          <p className="text-lg text-gray-700">
-            &copy; 2024 Ganesh Museum. All rights reserved.
-          </p>
-        </footer>
       </div>
     </div>
   );
